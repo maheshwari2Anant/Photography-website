@@ -1,2 +1,2 @@
-# Photography-website
-A website for photographers
+# PHOTOGRAPHY-WEBSITE
+A Website for Photographers.
